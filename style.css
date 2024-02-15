@@ -17,6 +17,7 @@ body{
   align-items:center;
   background-color:#17465B;
   color:white !important;
+  height:100vh;
 }
 #btn{
   font-size:15px;
